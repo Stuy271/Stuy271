@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey👋My name is Stuart, I am currently studying Mechatronic Engineering at Deakin University, Aus
+
 
 <!--
 **Stuy271/Stuy271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
